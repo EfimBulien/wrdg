@@ -1,0 +1,3 @@
+﻿  pr4.cpp
+C:\Users\F15\source\repos\pr4\pr4.cpp(38,69): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr4.vcxproj -> C:\Users\F15\source\repos\pr4\x64\Debug\pr4.exe
